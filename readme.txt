@@ -1,0 +1,1 @@
+Сюда можно добавить файлы lightbox.js и lightbox.css
